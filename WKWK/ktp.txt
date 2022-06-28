@@ -1,0 +1,21 @@
+
+
+							PROVINSI JAWA BARAT
+								KOTA BOGOR
+----------------------------------------------------------
+----------------------------------------------------------
+NIK               : 3212201117020001
+NAMA              : IBNU
+Tempat/Tgl Lahir  : INDRAMAYU
+Jenis Kelamin     : Laki-laki				Gol.Darah : A
+Alamat            : ALFAJAR
+		RT/RW           	: 11/2
+		Kel/Desa        	: LSOARANG
+		Kecamatan       	: LSOEANG
+Agama             : Islam
+Status Perkawinan : Belum Kawin
+Pekerjaan         : MAHASASISWA
+Kewarganegaraan   : WNI
+Berlaku hingga    : Seumur Hidup
+----------------------------------------------------------
+----------------------------------------------------------

@@ -1,0 +1,12 @@
+                 PROVINSI DIY    
+                KABUPATEN BANTUL    
+NIK    : 3212201711020001
+
+Nama               : 0xb911bff6a8
+Tampat/Tgl Lahir   : Indaramayu, 17-11-2002
+Jenis Kelamin      : Laki-laki			Gol. darah : A
+Agama              : Islam
+Status Perkawinan  : Belum Kawin
+Pekerjaan          : Mahasiswa
+Kewarganegaraan    : WNI
+Berlaku Hingga     : 12-12-2039
